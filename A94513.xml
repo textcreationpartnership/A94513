@@ -1,0 +1,400 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King's most Excellent Majesty, the faithful protestation and humble remonstrance of the Roman Catholick nobility and gentry of Ireland</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94513</idno>
+            <idno type="STC">Wing T1500A</idno>
+            <idno type="STC">ESTC R226397</idno>
+            <idno type="EEBO-CITATION">36282418</idno>
+            <idno type="OCLC">ocm 36282418</idno>
+            <idno type="VID">150328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150328)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2242:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King's most Excellent Majesty, the faithful protestation and humble remonstrance of the Roman Catholick nobility and gentry of Ireland</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Names of 96 signers of the petition on p. 3-4.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  17th century.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:150328:1"/>
+            <head>TO THE King's moſt Excellent Majeſty.</head>
+            <head type="sub">THE FAITHFUL PROTESTATION AND HUMBLE REMONSTRANCE OF THE <hi>Roman Catholick</hi> Nobility and Gentry OF IRELAND.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>OUR Majeſty's faithful Subjects, the <hi>Roman Catholick</hi> Nobility and Gentry of your Majeſty's Kingdom of <hi>IRELAND,</hi> out of a deep Senſe of thoſe prodigi<g ref="char:EOLhyphen"/>ous Afflictions under which the Monarchy of <hi>Great-Britain</hi> has been, and out of our ſad Thoughts, which daily bring more and more Sighs from our Breaſts, and Tears from our Eyes, for, not only, the ſtill as yet continued Miſeries and Sufferings of the <hi>Catholick Natives,</hi> of that our unfortunate Country, even amidſt and ever ſince the ſo much famed Joys and Triumphs of your Sacred Maje<g ref="char:EOLhyphen"/>ſty's moſt Auſpicious Inauguration, but alſo of the Cauſes, whereinto we
+<pb n="2" facs="tcp:150328:2"/>have made the moſt narrow Search we could, of theſe our own peculiar un<g ref="char:EOLhyphen"/>parallell'd Calamities: And upon Reflection on that Allegiance we owe, and ought by all Divine and Human Laws, and which we are, and have been always ready to Swear and Perform to your Majeſty, our only Sovereign Lord on Earth: And on the Scandal (notwithſtanding) which ſome Perſons (who are unwilling to underſtand aright our Religion) caſt upon it, as if it were not Conſiſtent with all dutiful Obedience, and Faith to the Supream Temporal Magiſtrate: And upon Conſideration likewiſe of a further Tye of Conſcience on us for endeavouring, as much as in us lies, to clear your Ma<g ref="char:EOLhyphen"/>jeſty's Royal Breaſt from all Fears and Jealouſies whatſoever; if any, perad<g ref="char:EOLhyphen"/>venture, your Majeſty entertain of us, through the Suggeſtion of ſuch as hate our Communion, or Nation; and to wipe off that Scandal, and allay the <hi>Odium</hi> under which our <hi>Church</hi> hath lain this laſt <hi>Century</hi> of Years, among other Chriſtian People in theſe Nations, of a different Way from our's in the Worſhip of GOD: We humbly crave your Majeſty's Pardon to vindicate both our Selves and our Holy Belief, in that Particular, of our Allegiance, by the enſuing <hi>Proteſtation;</hi> which (in Imitation of the late good Example given by our CLERGY, and purſuant to the general Doctrine and Practice of the <hi>Catholick Church)</hi> we make in Sight of Heaven, and in the Preſence of your Majeſty, ſincerely and truly, without Equivocation, or Mental Reſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p>
+               <q>WE do acknowledge and confeſs Your Majeſty to be our true and law<g ref="char:EOLhyphen"/>ful KING, ſupreme Lord and rightful Sovereign of this Realm of <hi>Ireland,</hi> and of all other Your Majeſty's Dominions: And therefore we acknowledge and confeſs ourſelves to be obliged, under pain of Sin, to obey Your Majeſty in all Civil and Temporal Affairs, as much as any other of Your Majeſty's Subjects; and as the Laws and Rules of Government in this Kingdom do require at our Hands. And that notwithſtanding any Power or Pretenſions of the Pope or See of <hi>Rome,</hi> or any Sentence or Decla<g ref="char:EOLhyphen"/>ration of what Kind or Quality ſoever, given, or to be given by the <hi>Pope,</hi> his Predeceſſors, or Succeſſors, or by any Authority Spiritual or Temporal, proceeding or derived from Him, or His See, againſt Your Majeſty, or Royal Authority: We will ſtill acknowledge, and perform to the utmoſt of our Abilities, our faithful Loyalty and true Allegiance to Your Majeſty. And we openly diſclaim and renounce all Foreign Power, be it either Papal or Princely, Spiritual or Temporal, in as much as it may ſeem able, or ſhall pretend to free, diſcharge, or abſolve us from this Obligation, or ſhall any way give us Leave or Licence to raiſe Tumults, bear Arms, or offer any Violence to Your Majeſty's Perſon, Royal Authority, or to the State or Go<g ref="char:EOLhyphen"/>vernment: Being all of us ready, not only to diſcover and make known to Your Majeſty, and to Your Miniſters, all the Treaſons made againſt Your Majeſty, or them which ſhall come to our Hearing; but alſo to loſe our Lives in the Defence of Your Majeſty's Perſon and Royal Authority, and to reſiſt, with our beſt Endeavours, all Conſpiracies and Attempts againſt Your Majeſty, be they fram'd or ſent under what Pretence, or patroniz'd by what Foreign Power or Authority ſoever. And further we profeſs, that all abſolute Princes and Supreme Governors, of what Religion ſoever they be, are God's Lieutenants on Earth; and that Obedience is due to them, accor<g ref="char:EOLhyphen"/>ding to the Laws of each Commonwealth reſpectively, in all Civil and Temporal Affairs: And therefore we do here proteſt againſt all Doctrine and Authority to the contrary. And we do hold it impious, and againſt the Word of God, to maintain, that any private Subject may kill or murder
+<pb n="3" facs="tcp:150328:2"/>the Anointed of God, his Prince, though of a different Belief and Religion from his. And we abhor and deteſt the Practice thereof, as damnable and wicked.</q>
+            </p>
+            <p>Theſe being the Tenets of our Religion, in Point of Loyalty and Submiſ<g ref="char:EOLhyphen"/>ſion to Your Majeſty's Authority, and our Obſervance and Veneration of, or Communion with, the See of <hi>Rome,</hi> in Matters purely Spiritual, no way entrenching on that perfect Obedience, which, by our Birth, by the Laws of GOD and Man, we are bound to pay to Your Majeſty, our Natural and Lawful Sovereign.</p>
+            <div type="signatures">
+               <head>Proſtrate at Your Majeſty's Feet, We moſt humbly beg, That all your Majeſty's Roman Catholick <hi>SUBJECTS</hi> of <hi>IRELAND,</hi> who ſhall by Subſcrip<g ref="char:EOLhyphen"/>tion, or Conſent, concur to this publick Proteſtation of <hi>LOYALTY,</hi> be protected from Perſecution, for the Profeſſion or Exerciſe of their <hi>Religion,</hi> and all former Laws, upon that Account, againſt them, Repeal'd.</head>
+               <list>
+                  <item>
+                     <hi>Luke</hi> Earl of <hi>Fingall.</hi>
+                  </item>
+                  <item>
+                     <hi>Morrogh</hi> Earl of <hi>Inchiquin.</hi>
+                  </item>
+                  <item>
+                     <hi>Donogh</hi> Earl of <hi>Clancarty.</hi>
+                  </item>
+                  <item>
+                     <hi>Oliver</hi> Earl of <hi>Tyrconel.</hi>
+                  </item>
+                  <item>
+                     <hi>Theobold</hi> Earl of <hi>Carlingford.</hi>
+                  </item>
+                  <item>
+                     <hi>Edmund</hi> Viſcount <hi>Mont-Garet.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas</hi> Viſcount <hi>Dillon.</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur</hi> Viſcount <hi>Iveagh.</hi>
+                  </item>
+                  <item>
+                     <hi>William</hi> Viſcount <hi>Clane.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles</hi> Viſcount <hi>Muskerry.</hi>
+                  </item>
+                  <item>
+                     <hi>William</hi> Viſcount <hi>Taaf.</hi>
+                  </item>
+                  <item>
+                     <hi>Oliver</hi> Baron of <hi>Lowth.</hi>
+                  </item>
+                  <item>
+                     <hi>William</hi> Baron of <hi>Caſtle Conel.</hi>
+                  </item>
+                  <item>Colonel <hi>Charles Dillon.</hi>
+                  </item>
+                  <item>Lieutenant Colonel <hi>Ignatius Nugent.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Plunket,</hi> Eſquire.</item>
+                  <item>
+                     <hi>Nicholas Plunket,</hi> Knight.</item>
+                  <item>
+                     <hi>Matthew Plunket</hi> of <hi>Dunſany.</hi>
+                  </item>
+                  <item>
+                     <hi>Chriſtopher Plunket</hi> of <hi>Dunſany.</hi>
+                  </item>
+                  <item>
+                     <hi>James Dillon,</hi> Knight.</item>
+                  <item>Colonel <hi>Chriſtopher Bryan.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Talbot,</hi> Baronet.</item>
+                  <item>
+                     <hi>Ulick Burk,</hi> Baronet.</item>
+                  <item>
+                     <hi>Edward Fitz-Harris,</hi> Baronet.</item>
+                  <item>
+                     <hi>Vallentine Brown,</hi> Baronet.</item>
+                  <item>
+                     <hi>Luke Bath,</hi> Baronet.</item>
+                  <item>
+                     <hi>Henry Slingsby,</hi> Knight.</item>
+                  <item>
+                     <hi>John Bellew,</hi> Knight.</item>
+                  <item>Colonel <hi>William Burk.</hi>
+                  </item>
+                  <item>— <hi>John Fitz-Patrick.</hi>
+                  </item>
+                  <item>— <hi>Bryan Mac-Mahun.</hi>
+                  </item>
+                  <item>— <hi>Miles Reily.</hi>
+                  </item>
+                  <item>— <hi>Gilbert Talbot.</hi>
+                  </item>
+                  <item>— <hi>Milo Power.</hi>
+                  </item>
+                  <item>Lieutenant Colonel <hi>Pierce Lacy.</hi>
+                  </item>
+                  <item>— <hi>Ulick Burk.</hi>
+                  </item>
+                  <item>— <hi>Thomas Scurlog.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Eſquires and Gentlemen.</head>
+                  <item>
+                     <hi>Jeffrey Brown</hi> of <hi>Gallway.</hi>
+                  </item>
+                  <item>
+                     <hi>John Walſh</hi> of <hi>Ballynvoher.</hi>
+                  </item>
+                  <item>
+                     <hi>Patrick Bryan.</hi>
+                  </item>
+                  <item>
+                     <hi>James Fitz-Gerrald</hi> of <hi>Lacach.</hi>
+                  </item>
+                  <item>
+                     <hi>John Talbot</hi> of <hi>Malahyde.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Luttril</hi> of <hi>Luttrilſtown.</hi>
+                  </item>
+                  <item>
+                     <hi>John Halliwood</hi> of <hi>Artaine.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry O Neil,</hi> Son to Sir <hi>Phelim O Neil.</hi>
+                  </item>
+                  <item>
+                     <hi>Dudley Barnel</hi> of <hi>Dunlickny.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Druycet</hi> of <hi>Mornanton.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Butler</hi> of <hi>Monihore.</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Darcy</hi> of <hi>Platin.</hi>
+                  </item>
+                  <item>
+                     <hi>Patrick Sarsfield</hi> of <hi>Lucan.</hi>
+                  </item>
+                  <item>
+                     <hi>John Macna-Mara</hi> of <hi>Greatlach.</hi>
+                  </item>
+                  <item>
+                     <hi>James Talbot</hi> of <hi>Bela-Connel.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Balf</hi> of <hi>Barraſtown.</hi>
+                  </item>
+                  <item>
+                     <hi>James Talbot</hi> of <hi>Templeoge.</hi>
+                  </item>
+                  <item>
+                     <hi>Patrick Archer.</hi>
+                  </item>
+                  <item>
+                     <hi>Luke Dowdall</hi> of <hi>Athlomny.</hi>
+                  </item>
+                  <item>
+                     <hi>Philip Hore</hi> of <hi>Kilſalcan.</hi>
+                  </item>
+                  <item>
+                     <hi>James Barnwell</hi> of <hi>Bremore.</hi>
+                  </item>
+                  <item>
+                     <hi>James Allen</hi> of St. <hi>Wolſtan</hi>'s.</item>
+                  <item>
+                     <hi>Thomas Cantwell</hi> of <hi>Ballamakedy.</hi>
+                  </item>
+                  <item>
+                     <hi>John Cantwell</hi> of <hi>Cantwell</hi>'s <hi>Court.</hi>
+                  </item>
+                  <item>
+                     <hi>Edmund Dillon</hi> of <hi>Streamſtown.</hi>
+                  </item>
+                  <item>
+                     <hi>John Flemming</hi> of <hi>Stahallmock.</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Sherlock</hi> of <hi>Grace-Dieu.</hi>
+                  </item>
+                  <pb n="4" facs="tcp:150328:3"/>
+                  <item>
+                     <hi>Chriſtopher Archbold</hi> of <hi>Timolin.</hi>
+                  </item>
+                  <item>
+                     <hi>Patrick Moor</hi> of <hi>Dowanſtown.</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Haly</hi> of <hi>Towrin.</hi>
+                  </item>
+                  <item>
+                     <hi>Pierce Butler</hi> of <hi>Calan.</hi>
+                  </item>
+                  <item>
+                     <hi>Pierce Butler</hi> of <hi>Killvealegher.</hi>
+                  </item>
+                  <item>
+                     <hi>John Segrave</hi> of <hi>Cabrach.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Wadding</hi> of <hi>Killarry.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Brown</hi> of <hi>Glandon.</hi>
+                  </item>
+                  <item>
+                     <hi>Oliver Caſhel</hi> of <hi>Dundalk.</hi>
+                  </item>
+                  <item>
+                     <hi>Patrick Clinton</hi> of <hi>Iriſhtown.</hi>
+                  </item>
+                  <item>Captain <hi>Chriſtopher Turner.</hi>
+                  </item>
+                  <item>
+                     <hi>John Bagot.</hi>
+                  </item>
+                  <item>
+                     <hi>William Grace.</hi>
+                  </item>
+                  <item>
+                     <hi>John Arthur</hi> of <hi>Hogeſtown.</hi>
+                  </item>
+                  <item>
+                     <hi>Marcus Laſſan</hi> of <hi>Greaſtown.</hi>
+                  </item>
+                  <item>
+                     <hi>Chriſtopher Aylmer</hi> of <hi>Belrath.</hi>
+                  </item>
+                  <item>
+                     <hi>James Plunket</hi> of <hi>Gibſtown.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Saint John</hi> of <hi>Mortleſtown.</hi>
+                  </item>
+                  <item>
+                     <hi>William Barryoge</hi> of <hi>Rincorn.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Strange</hi> of <hi>Rockwel's Caſtle.</hi>
+                  </item>
+                  <item>
+                     <hi>James Butler</hi> of <hi>Ballinekill.</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Colclough.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Sarsfield</hi> of <hi>Sarsfieldſtown.</hi>
+                  </item>
+                  <item>
+                     <hi>Pierce Nangle</hi> of <hi>Monanimny.</hi>
+                  </item>
+                  <item>
+                     <hi>James Wolveſton</hi> of <hi>Stelergan.</hi>
+                  </item>
+                  <item>
+                     <hi>Michael Bret.</hi>
+                  </item>
+                  <item>
+                     <hi>Patrick Boyton</hi> of <hi>Ballyturnymacoris.</hi>
+                  </item>
+                  <item>
+                     <hi>James White</hi> of <hi>Chambolly.</hi>
+                  </item>
+                  <item>Major <hi>Lawrence Dempſy.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Nugent</hi> of <hi>Culvin.</hi>
+                  </item>
+                  <item>
+                     <hi>Patrick Porter</hi> of <hi>Kinſtown.</hi>
+                  </item>
+                  <item>Major <hi>Marcus Furlong.</hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
